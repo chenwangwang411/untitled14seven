@@ -1,0 +1,3 @@
+"D:\clionInstall\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\untitled14seven.dir/objects.a
+D:\C\test\.idea\MinGW\bin\ar.exe cr CMakeFiles\untitled14seven.dir/objects.a @CMakeFiles\untitled14seven.dir\objects1.rsp
+D:\C\test\.idea\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\untitled14seven.dir/objects.a -Wl,--no-whole-archive  -o untitled14seven.exe -Wl,--out-implib,libuntitled14seven.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\untitled14seven.dir\linklibs.rsp
